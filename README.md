@@ -63,7 +63,7 @@ limitations under the License.
 </h3>
 
 <h3 align="center">
-    <a href="https://hf.co/course"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/course_banner.png"></a>
+    <a href="https://hf.co/course"><img src="https://www.boincai.com/static/media/logo.6342b33987490799a22f790e3e369418.svg"></a>
 </h3>
 
 🌍 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
